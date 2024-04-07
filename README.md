@@ -1,1 +1,2 @@
 # Python-Movie-Rating-Voice-Assistant
+Developed a Python script for retrieving movie ratings via voice commands, enhancing user interaction and convenience. Utilized speech recognition for voice input and pyttsx3 for audio output. Integrated with a custom module to extract movie ratings from a database. Users can ask for a movie's rating verbally, receiving real-time responses through text-to-speech conversion. The script includes error handling for robustness, ensuring smooth functionality.
